@@ -1,1 +1,1 @@
-# Exampla-one
+# MindWave Controller
